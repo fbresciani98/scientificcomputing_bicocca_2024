@@ -1,0 +1,8 @@
+README.md
+setup.py
+mypackage/__init__.py
+mypackage/rules.py
+mypackage_francesca_test.egg-info/PKG-INFO
+mypackage_francesca_test.egg-info/SOURCES.txt
+mypackage_francesca_test.egg-info/dependency_links.txt
+mypackage_francesca_test.egg-info/top_level.txt
